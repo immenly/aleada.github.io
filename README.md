@@ -1,5 +1,5 @@
 # Привет Мир!!!
-◄ HTML, CSS, CSS3
+# ◄ HTML, CSS, CSS3
 ◄ XSLT, XPATH, XML
 ◄ Javascript, node, react
 ◄ PHP, MySQL, Apache
